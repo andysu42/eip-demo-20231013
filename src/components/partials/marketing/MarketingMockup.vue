@@ -44,7 +44,7 @@
           >
 
           <!--Mockup-->
-          <img
+          <!-- <img
             class="light-image-l centered-mockup"
             src="/@src/assets/illustrations/landing/app-1.webp"
             alt=""
@@ -53,7 +53,7 @@
             class="dark-image-l centered-mockup"
             src="/@src/assets/illustrations/landing/app-1-dark.webp"
             alt=""
-          >
+          > -->
         </div>
         <div class="columns">
           <div class="column is-4">

@@ -89,7 +89,7 @@ useHead({
                 </div>
               </div>
               <div class="column is-7">
-                <img
+                <!-- <img
                   class="light-image-l hero-mockup"
                   src="/@src/assets/illustrations/landing/app-2.png"
                   alt=""
@@ -98,7 +98,7 @@ useHead({
                   class="dark-image-l hero-mockup"
                   src="/@src/assets/illustrations/landing/app-2-dark.png"
                   alt=""
-                >
+                > -->
               </div>
             </div>
           </div>
